@@ -1,0 +1,11 @@
+2
+3
+Northeast quarter of Section 201
+Northwest quarter of Southeast quarter of Section 201
+Southwest quarter of Southeast quarter of Section 201
+5
+Northwest quarter of Northwest quarter of Section 101
+Northeast quarter of Northeast quarter of Section 100
+Northeast quarter of Northwest quarter of Section 101
+Northeast quarter of Northeast quarter of Section 101
+Northwest quarter of Northeast quarter of Section 101
