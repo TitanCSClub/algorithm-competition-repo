@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Minelayer {
     // [y][x], not [x][y]
     private static String[][] grid = new String[15][30];
 

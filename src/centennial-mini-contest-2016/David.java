@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class David {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Item> items = new ArrayList<>();

@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Main {
+public class BlackOp {
 
     private static HashMap<Integer, Node> nodes = new HashMap<>();
     private static HashMap<Coord, Integer> nodeCoords = new HashMap<>();

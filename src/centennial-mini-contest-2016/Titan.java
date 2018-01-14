@@ -1,4 +1,4 @@
-public class Main {
+public class Titan {
     public static void main(String[] args) {
         System.out.println("   .\n" +
                 "  /~\\\n" +

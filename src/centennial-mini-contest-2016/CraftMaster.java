@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class Main {
+public class CraftMaster {
     private static HashMap<String, Item> items = new HashMap<>();
     private static TreeMap<String, Integer> rawIngredients = new TreeMap<>();
 

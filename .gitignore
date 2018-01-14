@@ -24,3 +24,5 @@ hs_err_pid*
 # IntelliJ
 out/
 bin/
+*.iml
+*.xml
