@@ -1,8 +1,15 @@
+package Princeton18;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Incorrect, the hexadecimal is incorrectly read (use Integer.toHexString()) and
+ * the input is even read wrong (line.length - 2 should be line.length - 1). After that,
+ * there's a problem in the place where it starts swapping indexes in the string.
+ */
 public class Polina {
     private static final String FILE_NAME = "polina.dat";
 
@@ -11,13 +18,12 @@ public class Polina {
         while (scanner.hasNextLine()) {
             String[] line = scanner.nextLine().split(" ");
             String message = line[0];
-            int[] codes = new int[line.length - 1];
+            int[] codes = new int[line.length - 2];
             for (int i = 0; i < codes.length; i++) {
                 codes[i] = Integer.parseInt(line[i + 1]);
             }
-
             for (int code : codes) {
-                String[] hex = Integer.toHexString(code).split(""); //(Integer.parseInt(code + "", 16) + "").split("");
+                String[] hex = (Integer.parseInt(code + "", 16) + "").split("");
                 System.out.println(Arrays.toString(hex));
                 String[] codess = (code + "").split("");
                 int[] nums = new int[(code + "").length()];

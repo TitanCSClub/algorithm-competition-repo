@@ -1,9 +1,14 @@
+package Princeton18;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 import static java.lang.System.out;
 
+/**
+ * Complete
+ */
 public class Rocio {
     private static final String FILE_NAME = "rocio.dat";
 
