@@ -1,5 +1,8 @@
 import java.io.FileNotFoundException;
 
+/**
+ * Correct
+ */
 public class Baldo {
     private static final String FILE_NAME = "baldo.dat";
 

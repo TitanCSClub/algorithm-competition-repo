@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
+/**
+ * Correct
+ */
 public class Lucy {
     private static final String FILE_NAME = "lucy.dat";
 

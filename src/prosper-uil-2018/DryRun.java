@@ -2,6 +2,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+/**
+ * Correct
+ */
 public class DryRun {
     private static final String FILE_NAME = "dryrun.dat";
 

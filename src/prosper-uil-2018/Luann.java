@@ -3,6 +3,9 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * Correct
+ */
 public class Luann {
     private static final String FILE_NAME = "luann.dat";
 

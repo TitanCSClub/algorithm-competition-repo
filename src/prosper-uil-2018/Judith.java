@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+/**
+ * Correct
+ */
 public class Judith {
     private static final String FILE_NAME = "judith.dat";
 

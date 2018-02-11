@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
+/**
+ * Correct!! THE MOST CLUTCH ANSWER BY EMILY
+ */
 public class Micaela {
     private static final String FILE_NAME = "micaela.dat";
 
