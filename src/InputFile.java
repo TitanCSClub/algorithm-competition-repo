@@ -10,8 +10,12 @@ public class InputFile {
 
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File(FILE_NAME));
-        while (scanner.hasNext()) {
+        /*while (scanner.hasNext()) {
 
-        }
+        }*/
+        /*int cases = scanner.nextInt();
+        for (int i = 0; i < cases; i++) {
+            
+        }*/
     }
 }
