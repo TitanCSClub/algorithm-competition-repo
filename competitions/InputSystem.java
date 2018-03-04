@@ -6,8 +6,12 @@ import java.util.Scanner;
 public class InputSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        while (scanner.hasNext()) {
+        /*while (scanner.hasNext()) {
 
-        }
+        }*/
+        /*int cases = scanner.nextInt();
+        for (int i = 0; i < cases; i++) {
+            
+        }*/
     }
 }
