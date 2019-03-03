@@ -1,0 +1,4 @@
+Post title3|Friend1|5|0|10|true|false|2018-11-20|2012-03-12|111
+Post title4|friend1|10|9|25|true|false|2018-11-27|2013-12-24|222
+Post title5|Relative1|3|1|110|false|false|2018-11-30|2010-09-14|333
+Post title6|Relative2|0|10|1|false|true|2017-11-30|2014-06-15|999

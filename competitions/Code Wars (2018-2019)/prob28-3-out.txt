@@ -1,0 +1,2 @@
+Shortest path: XECAIJDBY
+Distance=46.18

@@ -1,0 +1,11 @@
+START_TEMP 72
+NAME_OWNER Aiko
+NAME_AI Geboku
+Hey Geboku, what's 0 added to 0?
+Hey Geboku, what's the current temperature?
+Hey Geboku, call me Ai-chan from now on
+What's 99999999 multiplied by 0?
+What's your name?
+Can I call you Sasuke?
+Hey Sasuke, what's 111111 raised to the 1st power?
+Hey Sasuke, tell me a better joke

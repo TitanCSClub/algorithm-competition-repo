@@ -1,0 +1,3 @@
+Computer science is no more about computers than astronomy is about telescopes|Edsger Dijkstra|100|1|999|false|false|1950-01-01|1930-05-11|555
+Science is a way of thinking much more than it is a body of knowledge|Carl Sagan|200|150|20122|false|false|1999-02-03|1934-11-09|777
+Scientists have become the bearers of the torch of discovery in our quest for knowledge|Stephen Hawking|1000|500|30123|true|false|2018-03-14|1942-01-08|888

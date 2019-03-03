@@ -1,0 +1,7 @@
+START_TEMP 82
+NAME_OWNER Michelle
+NAME_AI Jeeves
+Hey Jeeves, what's 3880 plus 3896?
+What's 12 times 648?
+What's 6 to the 5th power?
+Tell me a joke

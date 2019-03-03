@@ -1,0 +1,12 @@
+7            +-----+  
+6            |     |  
+5   /\       |     |  
+4  +-+       |     |  
+3  | | +-+   | ____|__    +---+  
+2 \| | | |   |/       \   |   |  
+1  \ | | |   /         \  |   |  
+0   +-------+           +-+---+  
+0123456789012345678901234567890
+
+The numberline at the bottom is optional but may help
+you test your program.

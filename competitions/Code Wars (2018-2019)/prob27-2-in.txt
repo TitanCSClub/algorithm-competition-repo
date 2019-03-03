@@ -1,0 +1,8 @@
+START_TEMP 85
+NAME_OWNER Janaki
+NAME_AI Naukar
+Hey Naukar, Call me Jani from now on
+Hey Naukar, I'm hot
+I'm still hot
+Hey Naukar, turn up the AC
+Hey Naukar, what's the current temp?

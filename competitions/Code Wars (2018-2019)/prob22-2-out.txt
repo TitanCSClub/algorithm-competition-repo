@@ -1,0 +1,26 @@
+[Argentina]
+-Mauricio Macri
+[Brazil]
+-Jair Bolsonaro
+[Chile]
+-Sebastian Pinera
+[Colombia]
+-Juan Manuel Santos
+[Egypt]
+-Abdel Fattah el-Sisi
+[Kenya]
+-Uhuru Kenyatta
+[Mozambique]
+-Filipe Nyusi
+[Peru]
+-Martin Vizcarra
+[South Africa]
+-Cyril Ramaphosa
+[Sudan]
+-Omar al-Bashir
+[Tanzania]
+-John Magufuli
+[Venezuela]
+-Nicolas Maduro
+[Unknown]
+-Hage Geingob

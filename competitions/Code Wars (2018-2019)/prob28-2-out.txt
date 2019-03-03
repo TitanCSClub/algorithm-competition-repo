@@ -1,0 +1,2 @@
+Shortest path: XFCDJAIGY
+Distance=43.67

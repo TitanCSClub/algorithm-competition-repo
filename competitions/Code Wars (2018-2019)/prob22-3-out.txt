@@ -1,0 +1,20 @@
+[Cambodia]
+-Hun Sen
+[France]
+-Edouard Philippe
+[Germany]
+-Angela Merkel
+[Indonesia]
+-Joko Widodo
+[Ireland]
+-Leo Varadkar
+[Japan]
+-Abe Shinzou
+[South Korea]
+-Moon Jae-in
+[Spain]
+-Pedro Sanchez
+[Thailand]
+-Prayut Chan-o-cha
+[UK]
+-Theresa May

@@ -1,0 +1,27 @@
+5
+Favorite dinosaur Category:
+T-Rex
+Velociraptor
+Stegosaurus
+Triceratops
+Brachiosaurus
+Music at your wedding Category:
+Hip Hop
+Metal
+EDM
+Alternative
+Reggae
+20 year old fashion sense Category:
+Vintage
+Bohemian
+Chic
+Casual
+Professional
+Movies most likely to watch Category:
+Comedy
+Horror
+Action
+Documentary
+Musical
+Magic Number:
+99

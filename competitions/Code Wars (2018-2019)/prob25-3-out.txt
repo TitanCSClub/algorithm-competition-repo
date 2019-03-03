@@ -1,0 +1,76 @@
+Opponent 1: Captain Marvel
+Start HP=20
+Damage Bonus=+3
+Defense Bonus=+2
+Defense: 20 (base 18+2)
+
+Opponent 2: Thanos
+Start HP=20
+Damage Bonus=+3
+Defense Bonus=+1
+Defense: 20 (base 19+1)
+
+Captain Marvel will strike first.
+
+Round 1:
+Captain Marvel rolls 19 vs. 20 =miss
+Thanos rolls 18 vs. 20 =miss
+Round 2:
+Captain Marvel rolls 18 vs. 20 =miss
+Thanos rolls 17 vs. 20 =miss
+Round 3:
+Captain Marvel rolls 12 vs. 20 =miss
+Thanos rolls 11 vs. 20 =miss
+Round 4:
+Captain Marvel rolls 7 vs. 20 =miss
+Thanos rolls 5 vs. 20 =miss
+Round 5:
+Captain Marvel rolls 19 vs. 20 =miss
+Thanos rolls 14 vs. 20 =miss
+Round 6:
+Captain Marvel rolls 10 vs. 20 =miss
+Thanos rolls 1 vs. 20 =miss
+Round 7:
+Captain Marvel rolls 20 vs. 20 =HIT!
+Captain Marvel damage roll=1+3(bonus)=4
+Thanos HP Now=16
+Thanos rolls 19 vs. 20 =miss
+Round 8:
+Captain Marvel rolls 3 vs. 20 =miss
+Thanos rolls 20 vs. 20 =HIT!
+Thanos damage roll=2+3(bonus)=5
+Captain Marvel HP Now=15
+Round 9:
+Captain Marvel rolls 20 vs. 20 =HIT!
+Captain Marvel damage roll=3+3(bonus)=6
+Thanos HP Now=10
+Thanos rolls 20 vs. 20 =HIT!
+Thanos damage roll=4+3(bonus)=7
+Captain Marvel HP Now=8
+Round 10:
+Captain Marvel rolls 20 vs. 20 =HIT!
+Captain Marvel damage roll=1+3(bonus)=4
+Thanos HP Now=6
+Thanos rolls 6 vs. 20 =miss
+Round 11:
+Captain Marvel rolls 8 vs. 20 =miss
+Thanos rolls 20 vs. 20 =HIT!
+Thanos damage roll=2+3(bonus)=5
+Captain Marvel HP Now=3
+Round 12:
+Captain Marvel rolls 16 vs. 20 =miss
+Thanos rolls 15 vs. 20 =miss
+Round 13:
+Captain Marvel rolls 20 vs. 20 =HIT!
+Captain Marvel damage roll=1+3(bonus)=4
+Thanos HP Now=2
+Thanos rolls 19 vs. 20 =miss
+Round 14:
+Captain Marvel rolls 18 vs. 20 =miss
+Thanos rolls 19 vs. 20 =miss
+Round 15:
+Captain Marvel rolls 20 vs. 20 =HIT!
+Captain Marvel damage roll=1+3(bonus)=4
+Thanos HP Now=-2
+
+Captain Marvel HAS DEFEATED Thanos!!!

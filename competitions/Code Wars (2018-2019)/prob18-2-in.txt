@@ -1,0 +1,31 @@
+5
+Future game console Category:
+XBOX 4
+PS 5
+Switch 2
+PC
+PS 4
+XBOX One
+Future phone Category:
+iPhone 12
+iPhone 11
+Galaxy S13
+Galaxy S14
+Pixel 9
+Pixel 10
+Future roommates Category:
+One
+Two
+Three
+Four
+Eight
+Nine
+Future transportation method Category:
+Car
+-Train
+-Bus
+-Bike
+-Walking
+-Motorcycle
+Magic Number:
+5

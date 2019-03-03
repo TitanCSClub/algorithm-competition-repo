@@ -1,0 +1,33 @@
+Opponent 1: Borg Cube
+Start HP=20
+Damage Bonus=+3
+Defense Bonus=+2
+Defense: 20 (base 18+2)
+
+Opponent 2: USS Enterprise
+Start HP=18
+Damage Bonus=+2
+Defense Bonus=+1
+Defense: 11 (base 10+1)
+
+USS Enterprise will strike first.
+
+Round 1:
+USS Enterprise rolls 10 vs. 20 =miss
+Borg Cube rolls 10 vs. 11 =miss
+Round 2:
+USS Enterprise rolls 17 vs. 20 =miss
+Borg Cube rolls 18 vs. 11 =HIT!
+Borg Cube damage roll=10+3(bonus)=13
+USS Enterprise HP Now=5
+Round 3:
+USS Enterprise rolls 20 vs. 20 =HIT!
+USS Enterprise damage roll=5+2(bonus)=7
+Borg Cube HP Now=13
+Borg Cube rolls 9 vs. 11 =miss
+Round 4:
+USS Enterprise rolls 12 vs. 20 =miss
+Borg Cube damage roll=6+3(bonus)=9
+USS Enterprise HP Now=-4
+
+Borg Cube HAS DEFEATED USS Enterprise!!!

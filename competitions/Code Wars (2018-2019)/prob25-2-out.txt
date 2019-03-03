@@ -1,0 +1,43 @@
+Opponent 1: Superman
+Start HP=20
+Damage Bonus=+3
+Defense Bonus=+1
+Defense: 15 (base 14+1)
+
+Opponent 2: The Flash
+Start HP=20
+Damage Bonus=+2
+Defense Bonus=+2
+Defense: 18 (base 16+2)
+
+Superman will strike first.
+
+Round 1:
+Superman rolls 3 vs. 18 =miss
+The Flash rolls 8 vs. 15 =miss
+Round 2:
+Superman rolls 17 vs. 18 =miss
+The Flash rolls 14 vs. 15 =miss
+Round 3:
+Superman rolls 20 vs. 18 =HIT!
+Superman damage roll=5+3(bonus)=8
+The Flash HP Now=12
+The Flash rolls 16 vs. 15 =HIT!
+The Flash damage roll=2+2(bonus)=4
+Superman HP Now=16
+Round 4:
+Superman rolls 19 vs. 18 =HIT!
+Superman damage roll=7+3(bonus)=10
+The Flash HP Now=2
+The Flash rolls 11 vs. 15 =miss
+Round 5:
+Superman rolls 9 vs. 18 =miss
+The Flash rolls 20 vs. 15 =HIT!
+The Flash damage roll=1+2(bonus)=3
+Superman HP Now=13
+Round 6:
+Superman rolls 18 vs. 18 =HIT!
+Superman damage roll=9+3(bonus)=12
+The Flash HP Now=-10
+
+Superman HAS DEFEATED The Flash!!!

@@ -1,0 +1,4 @@
+Will be 17 on 2017-02-28 if born on 2000-02-29
+If born on 1900-02-28, will be 20 years old on 1920-02-29
+If born on 1900-03-01, will be 19 years old on 1920-02-29
+Will still be 0 up to 2400-02-29 if born on 2399-03-01
